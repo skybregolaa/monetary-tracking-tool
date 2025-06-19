@@ -44,5 +44,5 @@ venv\Scripts\activate
 
 ### 3. Install the project and dependencies
 ```bash
-pip install -e
+pip install -e .
 ```
